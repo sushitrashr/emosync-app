@@ -51,4 +51,4 @@ Este proyecto se lanza bajo la licencia MIT. Consulta el archivo LICENSE para m√
 
 ## Contacto
 
-Para preguntas o sugerencias, contacta a [Tu Nombre o Email].
+Para preguntas o sugerencias, contacta a [pieer.silva.abanto@gmail.com].
